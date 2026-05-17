@@ -8,6 +8,7 @@
 - [x] Run `00-python-pytorch/gradient_test.py`.
 - [x] Build `linear_regression_pytorch.py`.
 - [x] Embedding demo: Created `02-transformers/embedding_demo.py` and showed token IDs mapping to embedding vectors.
+- [x] Positional embedding demo: Created `02-transformers/positional_embedding_demo.py` and showed token embeddings + position embeddings.
 
 ## Notes
 
